@@ -1,22 +1,26 @@
 # UU-GAME
 
-- Communication platform: Allow the player to play in a round-robin tournament or 1v1 against other players connected via local internet. Can also play against AI.  
-- Game engine: Allow the player to play against an AI of 3 different difficulty levels  
-- Game platform: The interface. Allows two human players to play against each other. The game platform has a board, players, pieces and a game loop.
+## Overview
 
-## Features
+UU-GAME is a comprehensive gaming platform that offers a variety of features to enhance your gaming experience. This platform includes a game engine with different AI difficulty levels and a communication platform that lets players connect via local internet for round-robin tournaments or 1v1 games.
 
-See our Final Thesis document for the requirements that are fulfilled and thus which features are included.
+Additionally, it includes an intuitive game platform interface that facilitates games between two human players. The interface features a game board, players, pieces, and a game loop.
 
-## Requirements
+## Key Features
 
-Python 3.7 or higher.
+For detailed information on the requirements being fulfilled and features included, please refer to our Final Thesis document.
 
-## Conventions
+## Software Requirements
 
-See CONVENTIONS.md.
+To run the UU-GAME platform, you need to have Python 3.7 or higher installed on your system.
 
-## How to use?
+## Coding Conventions 
+
+For information regarding the coding conventions followed in this project, refer to the `CONVENTIONS.md` file.
+
+## Getting Started
+
+To use the communication platform, use the following command:
 
 ```
 python3 communicationPlatform/main.py
@@ -29,3 +33,5 @@ Game platform / engine:
 python3 test.py
 ```
 # game
+ 
+Thank you for choosing the UU-GAME platform. Enjoy your gaming experience!
